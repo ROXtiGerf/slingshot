@@ -9,7 +9,7 @@
 ## (1) Brief Project Description
 
 *As the world tend to be information explosion, people are attracted by the media which is diverse and with high density. The project "" is a window which integrate
-picture and vedio explore(like TikTok), community comment board(under certain topic or vedio, autonomical and governed by community), search function and related content recommendation*
+picture and vedio exploring(like TikTok), community comment board(under certain topic or vedio, autonomical and governed by community), search function and related content recommendation*
 
 ## (2) Link to Project UI
 

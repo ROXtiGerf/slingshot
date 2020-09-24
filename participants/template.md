@@ -1,8 +1,6 @@
 # <Project Name>
 
-Before submitting a PR containing your team's project information:
-- Make sure you rename this file to contain your project's name
-- Respond to add your response in each section below
+
 
 ## (0) Project Name and Team Slack Handles
 
@@ -10,7 +8,8 @@ Before submitting a PR containing your team's project information:
 
 ## (1) Brief Project Description
 
-*Add your project's description here.*
+*As the world tend to be information explosion, people are attracted by the media which is diverse and with high density. The project "" is a window which integrate
+picture and vedio explore(like TikTok), community comment board(under certain topic or vedio, autonomical and governed by community), search function and related content recommendation*
 
 ## (2) Link to Project UI
 
@@ -18,7 +17,7 @@ Before submitting a PR containing your team's project information:
 
 ## (3) What does your application/UI do?
 
-*Give us a brief description of what your application/UI does and how users are intended to interact with it.*
+*"" is designed for exploring pictures and vedios, gethering people who has same interest and discussing on some innovative topics。*
 
 ## (4) If your project is using a curated dataset, which one are you using?
 

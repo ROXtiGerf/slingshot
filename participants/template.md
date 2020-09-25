@@ -9,7 +9,7 @@
 ## (1) Brief Project Description
 
 *As the world tend to be information explosion, people are attracted by the media which is diverse and with high density. The project "" is a window which integrate
-picture and vedio exploring(like TikTok), community comment board(under certain topic or vedio, autonomical and governed by community), search function and related content recommendation*
+picture and video exploring(like TikTok), community comment board(under certain topic or video, autonomical and governed by community), search function and related content recommendation. We notice that many social media app do not allow sending pictures as comment or cannot send pictures freely(e.g. in discord, if you want sent a picture in channel, you had to upload it as a file). So, benifit from the feature of IPFS, We are able to reduce the redundancy so that we can afford. *
 
 ## (2) Link to Project UI
 
@@ -17,7 +17,7 @@ picture and vedio exploring(like TikTok), community comment board(under certain 
 
 ## (3) What does your application/UI do?
 
-*"" is designed for exploring pictures and vedios, gethering people who has same interest and discussing on some innovative topics。*
+*"" is designed for exploring pictures and videos, gethering people who has same interest and discussing on some innovative topics。*
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
